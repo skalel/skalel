@@ -31,8 +31,7 @@ I focus on building resilient architectures, handling complex integrations, and 
 ---
 
 ### 📊 GitHub Stats
-![Sandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=skalel&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skalel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=skalel&theme=dark)](https://git.io/streak-stats)
 
 ---
 [LinkedIn](https://www.linkedin.com/in/sandro-srj/) • [Portfolio/Contact](mailto:sandro.development@outlook.com)
