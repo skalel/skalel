@@ -29,9 +29,4 @@ I focus on building resilient architectures, handling complex integrations, and 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=skalel&theme=dark)](https://git.io/streak-stats)
-
----
 [LinkedIn](https://www.linkedin.com/in/sandro-srj/) • [Portfolio/Contact](mailto:sandro.development@outlook.com)
