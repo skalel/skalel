@@ -3,16 +3,8 @@
 
 I focus on building resilient architectures, handling complex integrations, and optimizing data flow between ERPs and external ecosystems. Currently architecting high-performance middleware solutions.
 
-- **Current Focus:** Developing **Heimdall**, a middleware for synchronizing massive ERP data with BI and Logistics systems, and architecting **FlowCore/FlowSpace**, a privacy-first, multi-environment financial management ecosystem.
+- **Current Focus:** Developing **Heimdall**, a middleware for synchronizing massive ERP data with BI and Logistics systems, and architecting **FlowSpace**, a privacy-first, multi-environment financial management ecosystem.
 - **Languages:** Native Portuguese, **English C2 (Proficient/Fluent)**.
-
----
-
-### Featured Ecosystem: FlowSpace & FlowCore
-I am currently developing a comprehensive financial platform tailored for complex multi-user environments, focusing heavily on strict data privacy, modern architecture, and AI-powered insights.
-
-* **FlowCore (The Engine):** A robust backend architecture (leveraging modular design and hexagonal architecture principles) that handles secure data isolation and complex permission models (RBAC/ABAC).
-* **FlowSpace (The Platform):** The multi-ambient user interface built with modern frontend ecosystems (React, Tailwind CSS, Shadcn UI). It integrates Generative AI models to provide automated, intelligent data analysis and financial insights directly to the user.
 
 ---
 
